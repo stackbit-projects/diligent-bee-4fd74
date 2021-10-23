@@ -14,6 +14,10 @@ sections:
       enable e-commerce on Planty, you’ll need to [sign up for
       Snipcart](http://bit.ly/2YzKmhP). Testing is forever free, no credit card
       required.
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    featured_categories: []
+    type: featured_categories_section
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
