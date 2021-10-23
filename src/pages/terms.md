@@ -15,6 +15,21 @@ sections:
       Snipcart](http://bit.ly/2YzKmhP). Testing is forever free, no credit card
       required.
   - section_id: lorem-ipsum
+    background_image_opacity: 0
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    actions: []
+    type: hero_section
+  - section_id: lorem-ipsum
     title: lorem-ipsum
     featured_categories: []
     type: featured_categories_section
